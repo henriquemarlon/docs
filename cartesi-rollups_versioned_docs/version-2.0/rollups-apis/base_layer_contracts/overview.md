@@ -1,6 +1,7 @@
 ---
 id: overview
 title: Overview
+slug: /api/graphql
 resources:
   - url: https://github.com/cartesi/rollups-contracts/tree/v1.4.0/onchain/rollups/contracts
     title: Smart Contracts for Cartesi Rollups
